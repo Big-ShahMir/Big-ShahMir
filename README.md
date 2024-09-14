@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, Shah Mir here.
 
 <!--
 **Big-ShahMir/Big-ShahMir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,15 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hey there! I’m Shah Mir, a passionate developer with a focus on AI-driven applications, database systems, and user-centered tools. I enjoy building projects that bridge the gap between complex technology and everyday usability, making things like data interaction and learning more intuitive and accessible.
-
-Currently, I’m working on a few AI-based projects that aim to help users interact with information in new and meaningful ways. Whether it's creating smart solutions for education or simplifying data exploration, I’m always looking for innovative ways to solve real-world problems with code.
-
-⚡When I’m not coding, you can usually find me diving into new technologies, learning something new, or tinkering with side projects. Feel free to check out my repositories and reach out if you'd like to collaborate or chat about tech!
-
-<br><br> 🔭 At the moment developing an AI application that connects to external databases and interacts with their data. Using natural language processing (NLP) and database querying, the AI understands the database schema, generates queries based on user prompts, and retrieves relevant information. It then processes and contextualizes the data, delivering clear, human-readable responses to help users easily explore and understand their data.
-
-<br><br>👯 I’m looking to collaborate on AI, ML, CV and other new technology driven projects, with the desire for constant innovation and continuous improvement in the field of computer science and technology. <br><br>🌱 Currently learning to create ML and AI driven SAAS applications to solve everyday as well as niche problems, additionally learning assembly code to gain better insight to low-level programming and computer architecture fundamentals. <br><br> 📫Feel free to reach out at my socials below and ask me about any of my projects or even ideas for any future collaborative projects. 
+Hey there! I’m Shah Mir, a passionate developer with a focus on machine learning (ML), AI-driven applications, and creating user-centered tools. I love building innovative projects that make complex technologies easier to use and more practical in everyday life. Whether it’s enhancing user experiences or solving real-world challenges with code, I’m always excited to explore new possibilities and push the boundaries of what tech can do.<br><br> 🔭 At the moment developing an AI application that connects to external databases and interacts with their data. Using natural language processing (NLP) and database querying, the AI understands the database schema, generates queries based on user prompts, and retrieves relevant information. It then processes and contextualizes the data, delivering clear, human-readable responses to help users easily explore and understand their data.
+<br><br>👯 I’m looking to collaborate on AI, ML, CV and other new technology driven projects, with the desire for constant innovation and continuous improvement in the field of computer science and technology. <br><br>🌱 Currently learning to create ML and AI driven SAAS applications to solve everyday as well as niche problems, additionally learning assembly code to gain better insight to low-level programming and computer architecture fundamentals. <br><br> 📫Feel free to reach out at my socials below and ask me about any of my projects or even ideas for any future collaborative projects. <br><br>⚡When I’m not coding, you can usually find me diving into new technologies, learning something new, or tinkering with side projects. Feel free to check out my repositories and reach out if you'd like to collaborate or chat about tech!
 
 
 ## 🌐 Socials:
